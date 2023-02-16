@@ -1,5 +1,9 @@
 # Bayesian Parameter Estimation Guest Lecture -- Prof. Rachel Kurchin
-This repo contains some papers to read as well as the demonstration notebook!
+## Some other references:
+- [Bayesim documentation](https://pv-lab.github.io/bayesim/_build/html/index.html)
+- [SnS paper](https://www.sciencedirect.com/science/article/pii/S254243511730096X) (featured in slides)
+- [Bayesim paper](https://www.sciencedirect.com/science/article/pii/S0010465519300414)
+- [Fe in Si paper](https://ieeexplore.ieee.org/abstract/document/9157971) (also featured in slides)
 
 ## Setup
 If you want to run the notebook yourself, you'll need a Python environment with all the packages that get imported. This is relatively simple to achieve with conda using the included `environment.yml` file:
