@@ -1,0 +1,12 @@
+name: bpe
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - python=3.9
+  - scipy
+  - matplotlib
+  - ipykernel
+  - jupyter
+  - ipywidgets
+prefix: /Volumes/Data/conda/miniconda3/envs/bpe
